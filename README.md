@@ -27,7 +27,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [x] deployed site @ 
+* [x] deployed site @ https://codepath-project5.vercel.app/
 
 ## Video Walkthrough
 
